@@ -24,7 +24,7 @@
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
     <a href="mailto:ratheeshraj50@gmail.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-ratheeshraj50%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email ratheeshraj50@gmail.com" />
     </a>
   </p>
 
@@ -187,12 +187,16 @@
 
   <p>
     <a href="mailto:ratheeshraj50@gmail.com">
-      <img src="https://img.shields.io/badge/Get_In_Touch-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
+      <img src="https://img.shields.io/badge/Email_Me-ratheeshraj50%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email ratheeshraj50@gmail.com" />
     </a>
     &nbsp;&nbsp;
     <a href="https://ratheesh-dev.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/View_Work-Portfolio_↗-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
     </a>
+  </p>
+
+  <p>
+    📬 Direct Inquiries: <a href="mailto:ratheeshraj50@gmail.com"><strong>ratheeshraj50@gmail.com</strong></a>
   </p>
 
   <br />
